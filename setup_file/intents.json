@@ -1,0 +1,63 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "Assertive",
+      "slots": [
+        {
+          "name": "assertiveWords",
+          "type": "assertiveWords"
+        },
+        {
+          "name": "RawText",
+          "type": "AMAZON.1315766020"
+        }
+      ]
+    },
+    {
+      "intent": "Joke"
+    },
+    {
+      "intent": "News",
+      "slots": [
+        {
+          "name": "newsWords",
+          "type": "newsWords"
+        },
+        {
+          "name": "RawText",
+          "type": "AMAZON.1315766020"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.YesIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "Game"
+    },
+    {
+      "intent": "AMAZON.NoIntent"
+    },
+    {
+      "intent": "EverythingElse",
+      "slots": [
+        {
+          "name": "RawText",
+          "type": "AMAZON.1315766020"
+        }
+      ]
+    }
+  ]
+}

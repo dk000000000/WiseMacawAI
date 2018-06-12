@@ -1,0 +1,18 @@
+beer
+stout
+eye pee a
+ipa
+ale
+lager
+cider
+liquor
+whiskey
+bourbon
+wine
+water
+milk
+juice
+coffee
+soda
+pop
+tea
